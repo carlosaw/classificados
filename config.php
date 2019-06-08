@@ -11,10 +11,10 @@ if(ENVIRONMENT == 'development') {
 	$config['dbpass'] = '';
 } else {
 	define("BASE_URL", "http://www.awregulagens.com.br/");
-	$config['dbname'] = 'awregula_classificados';
-	$config['host'] = '162.241.2.197';
-	$config['dbuser'] = 'awregula';
-	$config['dbpass'] = 'H121tRa6lx';
+	$config['dbname'] = 'xxxxxxx_classificados';
+	$config['host'] = '1xxx.xxx.x.xxx';
+	$config['dbuser'] = 'xxxxxxxx';
+	$config['dbpass'] = 'xxxxxxxxxx';
 }
 
 global $db;
